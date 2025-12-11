@@ -1,0 +1,294 @@
+// SpaceEngine Palettes for procedural planets
+// Palettes configuration made with PlanetsPalette by SolarLiner
+
+Scorched/Torrid ends at: 14.285714285714285714285714285714
+Hot ends at: 28.571428571428571428571428571429
+Warm ends at: 42.857142857142857142857142857143
+Temperate ends at: 57.142857142857142857142857142857
+Cool ends at: 71.428571428571428571428571428571
+Cold ends at: 85.714285714285714285714285714286
+Frozen/Frigid ends at: 100
+
+
+/******************** BrownDwarf ********************/
+
+Palette
+{
+	Class          "BrownDwarf"
+	StyleRange     (0.00, 0.05)
+	colorSea       ()
+	colorShelf     ()
+	colorBeach     ()
+	colorDesert    ()
+	colorLowland   ()
+	colorUpland    ()
+	colorRock      ()
+	colorSnow      ()
+}
+
+Palette
+{
+	Class          "BrownDwarf"
+	StyleRange     (0.05, 0.10)
+	colorSea       ()
+	colorShelf     ()
+	colorBeach     ()
+	colorDesert    ()
+	colorLowland   ()
+	colorUpland    ()
+	colorRock      ()
+	colorSnow      ()
+}
+
+Palette
+{
+	Class          "BrownDwarf"
+	StyleRange     (0.10, 0.15)
+	colorSea       ()
+	colorShelf     ()
+	colorBeach     ()
+	colorDesert    ()
+	colorLowland   ()
+	colorUpland    ()
+	colorRock      ()
+	colorSnow      ()
+}
+
+Palette
+{
+	Class          "BrownDwarf"
+	StyleRange     (0.15, 0.20)
+	colorSea       ()
+	colorShelf     ()
+	colorBeach     ()
+	colorDesert    ()
+	colorLowland   ()
+	colorUpland    ()
+	colorRock      ()
+	colorSnow      ()
+}
+
+Palette
+{
+	Class          "BrownDwarf"
+	StyleRange     (0.20, 0.25)
+	colorSea       ()
+	colorShelf     ()
+	colorBeach     ()
+	colorDesert    ()
+	colorLowland   ()
+	colorUpland    ()
+	colorRock      ()
+	colorSnow      ()
+}
+
+Palette
+{
+	Class          "BrownDwarf"
+	StyleRange     (0.25, 0.30)
+	colorSea       ()
+	colorShelf     ()
+	colorBeach     ()
+	colorDesert    ()
+	colorLowland   ()
+	colorUpland    ()
+	colorRock      ()
+	colorSnow      ()
+}
+
+Palette
+{
+	Class          "BrownDwarf"
+	StyleRange     (0.30, 0.35)
+	colorSea       ()
+	colorShelf     ()
+	colorBeach     ()
+	colorDesert    ()
+	colorLowland   ()
+	colorUpland    ()
+	colorRock      ()
+	colorSnow      ()
+}
+
+Palette
+{
+	Class          "BrownDwarf"
+	StyleRange     (0.35, 0.40)
+	colorSea       ()
+	colorShelf     ()
+	colorBeach     ()
+	colorDesert    ()
+	colorLowland   ()
+	colorUpland    ()
+	colorRock      ()
+	colorSnow      ()
+}
+
+Palette
+{
+	Class          "BrownDwarf"
+	StyleRange     (0.40, 0.45)
+	colorSea       ()
+	colorShelf     ()
+	colorBeach     ()
+	colorDesert    ()
+	colorLowland   ()
+	colorUpland    ()
+	colorRock      ()
+	colorSnow      ()
+}
+
+Palette
+{
+	Class          "BrownDwarf"
+	StyleRange     (0.45, 0.50)
+	colorSea       ()
+	colorShelf     ()
+	colorBeach     ()
+	colorDesert    ()
+	colorLowland   ()
+	colorUpland    ()
+	colorRock      ()
+	colorSnow      ()
+}
+
+Palette
+{
+	Class          "BrownDwarf"
+	StyleRange     (0.50, 0.55)
+	colorSea       ()
+	colorShelf     ()
+	colorBeach     ()
+	colorDesert    ()
+	colorLowland   ()
+	colorUpland    ()
+	colorRock      ()
+	colorSnow      ()
+}
+
+Palette
+{
+	Class          "BrownDwarf"
+	StyleRange     (0.55, 0.60)
+	colorSea       ()
+	colorShelf     ()
+	colorBeach     ()
+	colorDesert    ()
+	colorLowland   ()
+	colorUpland    ()
+	colorRock      ()
+	colorSnow      ()
+}
+
+Palette
+{
+	Class          "BrownDwarf"
+	StyleRange     (0.60, 0.65)
+	colorSea       ()
+	colorShelf     ()
+	colorBeach     ()
+	colorDesert    ()
+	colorLowland   ()
+	colorUpland    ()
+	colorRock      ()
+	colorSnow      ()
+}
+
+Palette
+{
+	Class          "BrownDwarf"
+	StyleRange     (0.65, 0.70)
+	colorSea       ()
+	colorShelf     ()
+	colorBeach     ()
+	colorDesert    ()
+	colorLowland   ()
+	colorUpland    ()
+	colorRock      ()
+	colorSnow      ()
+}
+
+Palette
+{
+	Class          "BrownDwarf"
+	StyleRange     (0.70, 0.75)
+	colorSea       ()
+	colorShelf     ()
+	colorBeach     ()
+	colorDesert    ()
+	colorLowland   ()
+	colorUpland    ()
+	colorRock      ()
+	colorSnow      ()
+}
+
+Palette
+{
+	Class          "BrownDwarf"
+	StyleRange     (0.75, 0.80)
+	colorSea       ()
+	colorShelf     ()
+	colorBeach     ()
+	colorDesert    ()
+	colorLowland   ()
+	colorUpland    ()
+	colorRock      ()
+	colorSnow      ()
+}
+
+Palette
+{
+	Class          "BrownDwarf"
+	StyleRange     (0.80, 0.85)
+	colorSea       ()
+	colorShelf     ()
+	colorBeach     ()
+	colorDesert    ()
+	colorLowland   ()
+	colorUpland    ()
+	colorRock      ()
+	colorSnow      ()
+}
+
+Palette
+{
+	Class          "BrownDwarf"
+	StyleRange     (0.85, 0.90)
+	colorSea       ()
+	colorShelf     ()
+	colorBeach     ()
+	colorDesert    ()
+	colorLowland   ()
+	colorUpland    ()
+	colorRock      ()
+	colorSnow      ()
+}
+
+Palette
+{
+	Class          "BrownDwarf"
+	StyleRange     (0.90, 0.95)
+	colorSea       ()
+	colorShelf     ()
+	colorBeach     ()
+	colorDesert    ()
+	colorLowland   ()
+	colorUpland    ()
+	colorRock      ()
+	colorSnow      ()
+}
+
+Palette
+{
+	Class          "BrownDwarf"
+	StyleRange     (0.95, 1.00)
+	colorSea       ()
+	colorShelf     ()
+	colorBeach     ()
+	colorDesert    ()
+	colorLowland   ()
+	colorUpland    ()
+	colorRock      ()
+	colorSnow      ()
+}
+

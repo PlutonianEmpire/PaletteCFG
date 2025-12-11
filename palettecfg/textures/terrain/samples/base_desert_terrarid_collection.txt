@@ -1,0 +1,1251 @@
+// SpaceEngine Palettes for procedural planets
+// Palettes configuration made with PlanetsPalette by SolarLiner
+
+Scorched/Torrid ends at: 14.285714285714285714285714285714
+Hot ends at: 28.571428571428571428571428571429
+Warm ends at: 42.857142857142857142857142857143
+Temperate ends at: 57.142857142857142857142857142857
+Cool ends at: 71.428571428571428571428571428571
+Cold ends at: 85.714285714285714285714285714286
+Frozen/Frigid ends at: 100
+
+/******************** Desert ********************/
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.00, 0.01)
+	colorSea       ( 0.00)
+	colorShelf     ( 0.00)
+	colorBeach     ( 0.00)
+	colorDesert    ( 0.00)
+	colorLowland   ( 0.00)
+	colorUpland    ( 0.00)
+	colorRock      ( 0.00)
+	colorSnow      ( 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.01, 0.02)
+	colorSea       ( 0.00)
+	colorShelf     ( 0.00)
+	colorBeach     ( 0.00)
+	colorDesert    ( 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (1.00, 1.00, 1.00, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.02, 0.03)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (1.00, 1.00, 1.00, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.03, 0.05)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (1.00, 1.00, 1.00, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.05, 0.06)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.06, 0.07)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (1.00, 1.00, 1.00, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.07, 0.08)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.08, 0.09)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.09, 0.10)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.10, 0.11)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.11, 0.13)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (1.00, 1.00, 1.00, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.13, 0.14)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.14, 0.15)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.15, 0.16)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.16, 0.17)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.17, 0.18)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.18, 0.19)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (1.00, 1.00, 1.00, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.19, 0.20)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.20, 0.22)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.22, 0.23)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.23, 0.24)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.24, 0.25)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.25, 0.26)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.26, 0.27)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.27, 0.28)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.28, 0.30)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (1.00, 1.00, 1.00, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.30, 0.31)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (1.00, 1.00, 1.00, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.31, 0.32)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (1.00, 1.00, 1.00, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.32, 0.33)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.33, 0.34)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.34, 0.35)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.35, 0.36)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.36, 0.38)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (1.00, 1.00, 1.00, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.38, 0.39)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (1.00, 1.00, 1.00, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.39, 0.40)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.40, 0.41)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.41, 0.42)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (1.00, 1.00, 1.00, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.42, 0.43)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (1.00, 1.00, 1.00, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.43, 0.44)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (1.00, 1.00, 1.00, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.44, 0.45)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (1.00, 1.00, 1.00, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.45, 0.47)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.47, 0.48)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.48, 0.49)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (1.00, 1.00, 1.00, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.49, 0.50)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (1.00, 1.00, 1.00, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.50, 0.51)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.51, 0.52)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (1.00, 1.00, 1.00, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.52, 0.53)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (1.00, 1.00, 1.00, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.53, 0.55)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (1.00, 1.00, 1.00, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.55, 0.56)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.56, 0.57)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.57, 0.58)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (1.00, 1.00, 1.00, 1.00)
+}
+
+// SNES "SimEarth" Colors (PlutonianEmpire) | #949A5A
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.58, 0.59)
+	colorSea       (0.22, 0.22, 0.71, 0.00)
+	colorShelf     (0.48, 0.76, 0.77, 0.00)
+	colorBeach     (0.77, 0.66, 0.67, 0.00)
+	colorDesert    (0.90, 0.89, 0.00, 0.00)
+	colorLowland   (0.42, 0.29, 0.19, 0.00)
+	colorUpland    (0.71, 0.60, 0.48, 0.00)
+	colorRock      (0.67, 0.54, 0.42, 0.00)
+	colorSnow      (0.90, 0.89, 0.90, 0.50)
+	colorLowPlants (0.00, 0.41, 0.00, 0.00)
+	colorUpPlants  (0.55, 0.89, 0.61, 0.00)
+}
+
+// Sims 2 "SimEarth" Colors (PlutonianEmpire) | #D1A68E
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.59, 0.60)
+	colorSea       (0.09, 0.18, 0.51, 0.00)
+	colorShelf     (0.30, 0.59, 0.94, 0.00)
+	colorBeach     (0.81, 0.74, 0.56, 0.00)
+	colorDesert    (0.46, 0.24, 0.11, 0.00)
+	colorLowland   (0.41, 0.37, 0.25, 0.00)
+	colorUpland    (0.26, 0.22, 0.12, 0.00)
+	colorRock      (0.47, 0.47, 0.42, 0.00)
+	colorSnow      (0.92, 0.90, 0.91, 0.50)
+	colorLowPlants (0.42, 0.49, 0.16, 0.00)
+	colorUpPlants  (0.20, 0.25, 0.07, 0.00)
+}
+
+// Gold colours (PlutonianEmpire) | #8C7264
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.60, 0.61)
+	colorSea       (0.86, 0.76, 0.58, 0.00)
+	colorShelf     (0.44, 0.34, 0.25, 0.00)
+	colorBeach     (1.00, 0.84, 0.00, 0.00)
+	colorDesert    (0.77, 0.70, 0.35, 0.00)
+	colorLowland   (0.83, 0.68, 0.22, 0.27)
+	colorUpland    (0.60, 0.40, 0.08, 0.00)
+	colorRock      (0.22, 0.19, 0.11, 0.00)
+	colorSnow      (0.78, 0.78, 0.78, 0.77)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.61, 0.63)
+	colorSea       ()
+	colorShelf     ()
+	colorBeach     ()
+	colorDesert    (, 0.00)
+	colorLowland   ()
+	colorUpland    ()
+	colorRock      ()
+	colorSnow      ()
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.63, 0.64)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.64, 0.65)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.65, 0.66)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.66, 0.67)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.67, 0.68)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.68, 0.69)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (1.00, 1.00, 1.00, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.69, 0.70)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (1.00, 1.00, 1.00, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.70, 0.72)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (1.00, 1.00, 1.00, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.72, 0.73)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.73, 0.74)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.74, 0.75)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (1.00, 1.00, 1.00, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.75, 0.76)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.76, 0.77)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.77, 0.78)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.78, 0.80)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.80, 0.81)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (1.00, 1.00, 1.00, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.81, 0.82)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (1.00, 1.00, 1.00, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.82, 0.83)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.83, 0.84)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.84, 0.85)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (1.00, 1.00, 1.00, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.85, 0.86)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (1.00, 1.00, 1.00, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.86, 0.88)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (1.00, 1.00, 1.00, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.88, 0.89)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (1.00, 1.00, 1.00, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.89, 0.90)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.90, 0.91)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (1.00, 1.00, 1.00, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.91, 0.92)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.92, 0.93)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (1.00, 1.00, 1.00, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.93, 0.94)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (1.00, 1.00, 1.00, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.94, 0.95)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.95, 0.97)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.97, 0.98)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (1.00, 1.00, 1.00, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.98, 0.99)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (1.00, 1.00, 1.00, 1.00)
+}
+
+Palette
+{
+	Class          "Desert"
+	StyleRange     (0.99, 1.00)
+	colorSea       (, 0.00)
+	colorShelf     (, 0.00)
+	colorBeach     (, 0.00)
+	colorDesert    (, 0.00)
+	colorLowland   (, 0.00)
+	colorUpland    (, 0.00)
+	colorRock      (, 0.00)
+	colorSnow      (1.00, 1.00, 1.00, 1.00)
+}

@@ -1,0 +1,376 @@
+// SpaceEngine Palettes for procedural planets
+// Palettes configuration made with PlanetsPalette by SolarLiner
+
+Scorched/Torrid ends at: 14.285714285714285714285714285714
+Hot ends at: 28.571428571428571428571428571429
+Warm ends at: 42.857142857142857142857142857143
+Temperate ends at: 57.142857142857142857142857142857
+Cool ends at: 71.428571428571428571428571428571
+Cold ends at: 85.714285714285714285714285714286
+Frozen/Frigid ends at: 100
+
+/******************** Asteroid ********************/
+
+Palette
+{
+	Class          "Asteroid"
+	StyleRange     (0.00, 0.04)
+	colorSea       ( 0.00)
+	colorShelf     ( 0.00)
+	colorBeach     ( 0.00)
+	colorDesert    ( 0.00)
+	colorLowland   ( 0.00)
+	colorUpland    ( 0.00)
+	colorRock      ( 0.00)
+	colorSnow      (.00)
+}
+
+Palette
+{
+	Class          "Asteroid"
+	StyleRange     (0.04, 0.08)
+	colorSea       ( 0.00)
+	colorShelf     ( 0.00)
+	colorBeach     ( 0.00)
+	colorDesert    ( 0.00)
+	colorLowland   ( 0.00)
+	colorUpland    ( 0.00)
+	colorRock      ( 0.00)
+	colorSnow      (.00)
+}
+
+Palette
+{
+	Class          "Asteroid"
+	StyleRange     (0.08, 0.12)
+	colorSea       ( 0.00)
+	colorShelf     ( 0.00)
+	colorBeach     ( 0.00)
+	colorDesert    ( 0.00)
+	colorLowland   ( 0.00)
+	colorUpland    ( 0.00)
+	colorRock      ( 0.00)
+	colorSnow      (.00)
+}
+
+Palette
+{
+	Class          "Asteroid"
+	StyleRange     (0.12, 0.15)
+	colorSea       ( 0.00)
+	colorShelf     ( 0.00)
+	colorBeach     ( 0.00)
+	colorDesert    ( 0.00)
+	colorLowland   ( 0.00)
+	colorUpland    ( 0.00)
+	colorRock      ( 0.00)
+	colorSnow      (.00)
+}
+
+Palette
+{
+	Class          "Asteroid"
+	StyleRange     (0.15, 0.19)
+	colorSea       ( 0.00)
+	colorShelf     ( 0.00)
+	colorBeach     ( 0.00)
+	colorDesert    ( 0.00)
+	colorLowland   ( 0.00)
+	colorUpland    ( 0.00)
+	colorRock      ( 0.00)
+	colorSnow      (.00)
+}
+
+Palette
+{
+	Class          "Asteroid"
+	StyleRange     (0.19, 0.23)
+	colorSea       ( 0.00)
+	colorShelf     ( 0.00)
+	colorBeach     ( 0.00)
+	colorDesert    ( 0.00)
+	colorLowland   ( 0.00)
+	colorUpland    ( 0.00)
+	colorRock      ( 0.00)
+	colorSnow      (.00)
+}
+
+Palette
+{
+	Class          "Asteroid"
+	StyleRange     (0.23, 0.27)
+	colorSea       ( 0.00)
+	colorShelf     ( 0.00)
+	colorBeach     ( 0.00)
+	colorDesert    ( 0.00)
+	colorLowland   ( 0.00)
+	colorUpland    ( 0.00)
+	colorRock      ( 0.00)
+	colorSnow      (.00)
+}
+
+Palette
+{
+	Class          "Asteroid"
+	StyleRange     (0.27, 0.31)
+	colorSea       ( 0.00)
+	colorShelf     ( 0.00)
+	colorBeach     ( 0.00)
+	colorDesert    ( 0.00)
+	colorLowland   ( 0.00)
+	colorUpland    ( 0.00)
+	colorRock      ( 0.00)
+	colorSnow      (.00)
+}
+
+Palette
+{
+	Class          "Asteroid"
+	StyleRange     (0.31, 0.35)
+	colorSea       ( 0.00)
+	colorShelf     ( 0.00)
+	colorBeach     ( 0.00)
+	colorDesert    ( 0.00)
+	colorLowland   ( 0.00)
+	colorUpland    ( 0.00)
+	colorRock      ( 0.00)
+	colorSnow      (.00)
+}
+
+Palette
+{
+	Class          "Asteroid"
+	StyleRange     (0.35, 0.38)
+	colorSea       ( 0.00)
+	colorShelf     ( 0.00)
+	colorBeach     ( 0.00)
+	colorDesert    ( 0.00)
+	colorLowland   ( 0.00)
+	colorUpland    ( 0.00)
+	colorRock      ( 0.00)
+	colorSnow      (.00)
+}
+
+Palette
+{
+	Class          "Asteroid"
+	StyleRange     (0.38, 0.42)
+	colorSea       ()
+	colorShelf     ()
+	colorBeach     ()
+	colorDesert    ()
+	colorLowland   ()
+	colorUpland    ()
+	colorRock      ()
+	colorSnow      ()
+}
+
+Palette
+{
+	Class          "Asteroid"
+	StyleRange     (0.42, 0.46)
+	colorSea       ( 0.00)
+	colorShelf     ( 0.00)
+	colorBeach     ( 0.00)
+	colorDesert    ( 0.00)
+	colorLowland   ( 0.00)
+	colorUpland    ( 0.00)
+	colorRock      ( 0.00)
+	colorSnow      (.00)
+}
+
+Palette
+{
+	Class          "Asteroid"
+	StyleRange     (0.46, 0.50)
+	colorSea       ( 0.00)
+	colorShelf     ( 0.00)
+	colorBeach     ( 0.00)
+	colorDesert    ( 0.00)
+	colorLowland   ( 0.00)
+	colorUpland    ( 0.00)
+	colorRock      ( 0.00)
+	colorSnow      (.00)
+}
+
+Palette
+{
+	Class          "Asteroid"
+	StyleRange     (0.50, 0.54)
+	colorSea       ( 0.00)
+	colorShelf     ( 0.00)
+	colorBeach     ( 0.00)
+	colorDesert    ( 0.00)
+	colorLowland   ( 0.00)
+	colorUpland    ( 0.00)
+	colorRock      ( 0.00)
+	colorSnow      (.00)
+}
+
+Palette
+{
+	Class          "Asteroid"
+	StyleRange     (0.54, 0.58)
+	colorSea       ( 0.00)
+	colorShelf     ( 0.00)
+	colorBeach     ( 0.00)
+	colorDesert    ( 0.00)
+	colorLowland   ( 0.00)
+	colorUpland    ( 0.00)
+	colorRock      ( 0.00)
+	colorSnow      (.00)
+}
+
+Palette
+{
+	Class          "Asteroid"
+	StyleRange     (0.58, 0.62)
+	colorSea       ( 0.00)
+	colorShelf     ( 0.00)
+	colorBeach     ( 0.00)
+	colorDesert    ( 0.00)
+	colorLowland   ()
+	colorUpland    ( 0.00)
+	colorRock      ( 0.00)
+	colorSnow      ()
+}
+
+Palette
+{
+	Class          "Asteroid"
+	StyleRange     (0.62, 0.65)
+	colorSea       ()
+	colorShelf     ()
+	colorBeach     ( 0.00)
+	colorDesert    ( 0.00)
+	colorLowland   ()
+	colorUpland    ()
+	colorRock      ()
+	colorSnow      ()
+}
+
+Palette
+{
+	Class          "Asteroid"
+	StyleRange     (0.65, 0.69)
+	colorSea       ( 0.00)
+	colorShelf     ( 0.00)
+	colorBeach     ( 0.00)
+	colorDesert    ( 0.00)
+	colorLowland   ( 0.00)
+	colorUpland    ( 0.00)
+	colorRock      ( 0.00)
+	colorSnow      (.00)
+}
+
+Palette
+{
+	Class          "Asteroid"
+	StyleRange     (0.69, 0.73)
+	colorSea       ( 0.00)
+	colorShelf     ( 0.00)
+	colorBeach     ( 0.00)
+	colorDesert    ( 0.00)
+	colorLowland   ( 0.00)
+	colorUpland    ( 0.00)
+	colorRock      ( 0.00)
+	colorSnow      (.00)
+}
+
+Palette
+{
+	Class          "Asteroid"
+	StyleRange     (0.73, 0.77)
+	colorSea       ( 0.00)
+	colorShelf     ( 0.00)
+	colorBeach     ( 0.00)
+	colorDesert    ( 0.00)
+	colorLowland   ( 0.00)
+	colorUpland    ( 0.00)
+	colorRock      ( 0.00)
+	colorSnow      (.00)
+}
+
+Palette
+{
+	Class          "Asteroid"
+	StyleRange     (0.77, 0.81)
+	colorSea       ( 0.00)
+	colorShelf     ( 0.00)
+	colorBeach     ( 0.00)
+	colorDesert    ( 0.00)
+	colorLowland   ( 0.00)
+	colorUpland    ( 0.00)
+	colorRock      ( 0.00)
+	colorSnow      (.00)
+}
+
+Palette
+{
+	Class          "Asteroid"
+	StyleRange     (0.81, 0.85)
+	colorSea       ( 0.55)
+	colorShelf     ( 0.48)
+	colorBeach     ( 0.60)
+	colorDesert    ( 0.60)
+	colorLowland   ( 0.63)
+	colorUpland    ( 0.55)
+	colorRock      ( 0.42)
+	colorSnow      (.56)
+}
+
+Palette
+{
+	Class          "Asteroid"
+	StyleRange     (0.85, 0.88)
+	colorSea       ( 0.00)
+	colorShelf     ( 0.00)
+	colorBeach     ( 0.00)
+	colorDesert    ( 0.00)
+	colorLowland   ( 0.00)
+	colorUpland    ( 0.00)
+	colorRock      ( 0.00)
+	colorSnow      (.00)
+}
+
+Palette
+{
+	Class          "Asteroid"
+	StyleRange     (0.88, 0.92)
+	colorSea       ( 0.00)
+	colorShelf     ( 0.00)
+	colorBeach     ( 0.00)
+	colorDesert    ( 0.00)
+	colorLowland   ( 0.00)
+	colorUpland    ( 0.00)
+	colorRock      ( 0.00)
+	colorSnow      ( 1.00)
+}
+
+Palette
+{
+	Class          "Asteroid"
+	StyleRange     (0.92, 0.96)
+	colorSea       ( 0.00)
+	colorShelf     ( 0.00)
+	colorBeach     ( 0.00)
+	colorDesert    ( 0.00)
+	colorLowland   ( 0.00)
+	colorUpland    ( 0.00)
+	colorRock      ( 0.00)
+	colorSnow      (.00)
+}
+
+Palette
+{
+	Class          "Asteroid"
+	StyleRange     (0.96, 1.00)
+	colorSea       ( 0.00)
+	colorShelf     ( 0.00)
+	colorBeach     ( 0.00)
+	colorDesert    ( 0.00)
+	colorLowland   ( 0.00)
+	colorUpland    ( 0.00)
+	colorRock      ( 0.00)
+	colorSnow      ( 1.00)
+}

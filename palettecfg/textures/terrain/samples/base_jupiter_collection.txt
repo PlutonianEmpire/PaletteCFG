@@ -1,0 +1,12 @@
+// SpaceEngine Palettes for procedural planets
+// Palettes configuration made with PlanetsPalette by SolarLiner
+
+Scorched/Torrid ends at: 14.285714285714285714285714285714
+Hot ends at: 28.571428571428571428571428571429
+Warm ends at: 42.857142857142857142857142857143
+Temperate ends at: 57.142857142857142857142857142857
+Cool ends at: 71.428571428571428571428571428571
+Cold ends at: 85.714285714285714285714285714286
+Frozen/Frigid ends at: 100
+
+/******************** GasGiant ********************/
